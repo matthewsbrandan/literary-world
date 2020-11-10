@@ -21,8 +21,8 @@
 ## .gitignore
 
 - Quais arquivos foram ignorados?
-    - Arquivos com dados de acesso ao banco.
-    - Todos os sites dentro do MatthewsWorld foram ignorados, pois terão um repositório próprio para tratar exclusivamente deles.
+    - Áreas em desenvolvimento (Autoral/Biblico)
+    - Imagens de livros cadastrados pelo usuário de teste.
 
 ## Developed by
 
