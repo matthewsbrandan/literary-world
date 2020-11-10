@@ -2,9 +2,6 @@
 ![Literary World](https://matthewsworld.me/img/logo-lworld.jpg)
 
 **Description:** Plataforma de Gerenciamento e Controle Literário. Mostra uma visão real do seu desenvolvimento como leitor e incentiva a prática da leitura.
-__________________________________________________________
-
-Literary management and control platform. It shows a real view of your development as a reader and encourages reading practice.
 
 **Link:** [Acesse o Site.](https://www.matthewsworld.me/lworld/)
 
